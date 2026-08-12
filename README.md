@@ -37,6 +37,7 @@ learning-path-builder/
 ├── .gitignore
 └── README.md
 
+```
 ---
 
 ## Running the Project
