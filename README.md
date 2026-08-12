@@ -18,22 +18,23 @@ A responsive single-page Learning Path Builder that allows students to browse av
 
 ## Project Structure
 
-learning-path-builder/ 
-│ 
-├── frontend/ 
-│       ├── index.html 
-│       ├── style.css 
-│       └── app.js 
+```text
+learning-path-builder/
 │
-├── backend/ 
-│       ├── manage.py 
-│       ├── config/ 
-│       ├── modules/ 
-│       ├── requirements.txt 
-│       └── ... 
-│ 
-├── .env.example 
-├── .gitignore 
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+│
+├── backend/
+│   ├── manage.py
+│   ├── config/
+│   ├── modules/
+│   ├── requirements.txt
+│   └── ...
+│
+├── .env.example
+├── .gitignore
 └── README.md
 
 ---
